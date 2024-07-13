@@ -6,3 +6,7 @@ x=25
 y=20
 z=x+y
 print(z)
+n=60
+m=55
+o=n+m
+print(o)
